@@ -1,8 +1,8 @@
-# redesneurais_1
+# ann-dl
 
 Exercises for the Artificial Neural Networks and Deep Learning elective (Insper).
 
-Published site: https://stefanolinden.github.io/redesneurais_1/
+Published site: https://stefanolinden.github.io/ann-dl/
 
 ## Structure
 
