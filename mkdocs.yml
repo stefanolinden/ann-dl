@@ -1,0 +1,13 @@
+site_name: ANN-DL Exercises
+theme:
+  name: material
+
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.snippets:
+      base_path: .
+      check_paths: true
+
+nav:
+  - Home: index.md
+  - Exercise 1 - Data: exercises/data/index.md
